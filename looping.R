@@ -170,11 +170,3 @@ for(i in 1:20)
 }
 
 
-#printing prime numbers 
-a=as.integer(readline("Enter a number:"))
-if(i%%2==0 && i%%3==0)
-{
-  print("it is not a prime number")
-}else{
-  print(a)
-}
